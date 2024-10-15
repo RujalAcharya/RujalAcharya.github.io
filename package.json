@@ -1,11 +1,11 @@
 {
-  "dependencies": { "vue": "^3.5.12" },
+  "dependencies": {},
   "devDependencies": {
     "vitepress": "^1.4.1"
   },
   "scripts": {
-    "site:dev": "vitepress dev site",
-    "site:build": "vitepress build site",
-    "site:preview": "vitepress preview site"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
